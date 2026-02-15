@@ -2,9 +2,11 @@
 {"dg-publish":true,"permalink":"/00-zettelkasten/campanha-dragoes-da-ilha-da-tempestade-2026/","tags":["gardenEntry"]}
 ---
 
-Bem vindos à campanha de Dragões da Ilha da Tempestade!!!
+# Bem vindos à campanha de Dragões da Ilha da Tempestade!!!
 
 essa página liga todas as informações necessárias e relevantes da história, personagens, últimas sessões e livros permitidos!!!
+
+caso queira, você também pode ler e ver todas as minhas anotações do meu último RPG "[[2-Area/rpg Ordem/Campanha de ordem minas gerais 2025\|Ordem Paranormal - Minas Gerais]]"
 
 # livros Permitidos:
 -  [D&D 5e - Livro do Jogador](https://drive.google.com/file/d/1RwfwPxy8KeXJkxdZ27Ca-p9gqHV-MWxf/view?usp=sharing)
