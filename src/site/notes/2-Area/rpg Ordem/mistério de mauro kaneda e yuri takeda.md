@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/2-area/rpg-ordem/misterio-de-mauro-kaneda-e-yuri-takeda/","updated":"15 Feb, 2026 16:35"}
+---
+
+mauro pegou um livro de necromancia com [[2-Area/rpg Ordem/Júlia Teixeira\|Júlia Teixeira]] para reviver seu cachorro Tobi, por negação da morte dele, já que as pessoas não o mais respeitavam {iria acontecer uma hora ou outra} e ele achava que sua esposa, que tinha acabado de sofrer um aborto espontâneo, tinha ficado esquizofrênica. Ele queria pelo menos a companhia do cachorro para se sentir validado, e [[2-Area/rpg Ordem/Júlia Teixeira\|Júlia Teixeira]] se aproveitou para passar a turma dela inteira de ano. Mauro depois do ritual se arrepende, vendo que sua criação não era aquilo que esperava, e depois de se deparar com sua esposa se suicidando ele comete o mesmo crime. Escondendo o cachorro no quarto de sua prole nunca nascida, deixando yuri onde ela foi encontrada sem vida, mauro decide também abreviar a sua existência nesse mundo, não conseguindo suportar o peso da realidade sobre seus ombros.
