@@ -1,0 +1,27 @@
+---
+{"dg-publish":true,"permalink":"/00-zettelkasten/campanha-dragoes-da-ilha-da-tempestade-2026/","tags":["gardenEntry"],"created":"2026-02-15T14:47:53.352-03:00"}
+---
+
+Bem vindos à campanha de Dragões da Ilha da Tempestade!!!
+
+essa página liga todas as informações necessárias e relevantes da história, personagens, últimas sessões e livros permitidos!!!
+
+# livros Permitidos:
+-  [D&D 5e - Livro do Jogador](https://drive.google.com/file/d/1RwfwPxy8KeXJkxdZ27Ca-p9gqHV-MWxf/view?usp=sharing)
+- [Caldeiração de Tasha para Tudo](https://drive.google.com/file/d/1zc0my8OUm50UwhmGFq3RNGbMDkcIQOM9/view?usp=drive_link)
+- [Guia de Xanathar para todas as coisas](https://drive.google.com/file/d/19LBQ1VMpqXo38AwizkggH06ZxclLT9nn/view?usp=drive_link)
+- [Regras da Casa](https://docs.google.com/document/d/1DQFmL3momqW97DO19fE6Ffzs6XorjZlh57qGcGOQK4s/edit?usp=drive_link)
+
+# jogadores 
+
+- []
+
+# personagens
+
+- ...
+
+
+# História 
+
+- [[00-Zettelkasten/sessão 0 - DIT\|sessão 0 - DIT]] 
+- [[sessão 1 - DIT\|sessão 1 - DIT]]
