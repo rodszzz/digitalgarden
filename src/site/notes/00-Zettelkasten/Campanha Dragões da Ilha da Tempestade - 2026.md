@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-zettelkasten/campanha-dragoes-da-ilha-da-tempestade-2026/","tags":["gardenEntry"],"created":"2026-02-15T14:47:53.352-03:00"}
+{"dg-publish":true,"permalink":"/00-zettelkasten/campanha-dragoes-da-ilha-da-tempestade-2026/","tags":["gardenEntry"]}
 ---
 
 Bem vindos à campanha de Dragões da Ilha da Tempestade!!!
